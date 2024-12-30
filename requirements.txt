@@ -1,0 +1,8 @@
+matplotlib
+matplotlib-inline
+numpy
+pandas
+plotly
+scikit-learn
+seaborn
+tensorflow
