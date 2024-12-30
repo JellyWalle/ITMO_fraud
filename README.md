@@ -28,6 +28,7 @@
 ```https://github.com/JellyWalle/ITMO_fraud.git```
 
 2. Переход в директорию
+
 ```cd ITMO_fraud```
 
 3. Создание виртуального окружения
